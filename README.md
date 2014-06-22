@@ -13,6 +13,10 @@ python wordsworth --filename textfile.txt
 python wordsworth -f textfile.txt
 ```
 
+Other use cases:
+wordsworth can be used to parse subtitle (.srt) files in order to find good search candidates for videogrep.
+
+
 Example output:
 
 ![Alt text](/screenshots/screenshot1.png?raw=true "screenshot1.png")
